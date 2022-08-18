@@ -7,5 +7,7 @@ lo que se me ocurrió realizar una pequeño script que recopilara datos sobre el
 Este script también puede ser utilizado con urls de otras busquedas en CNN en español.
 
 Script creado por: Guadalupe Fernando Escutia Rodríguez.
+
 Página web: https://ferplace.site
+
 GitHub: https://github.com/Goshujinsama88
